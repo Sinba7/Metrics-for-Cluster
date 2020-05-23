@@ -1,2 +1,2 @@
-This folder implement silhouette score using a blocking strategy for fast parallel computing, especially for data with significant amount of unique labels.
+This folder implements silhouette score using parallel computing based on a blocking strategy, and can work with any customized metrics.
 (Reference: https://gist.github.com/AlexandreAbraham/5544803) 
