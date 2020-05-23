@@ -1,2 +1,2 @@
 # Metrics-for-Cluster
-Try to evaluate cluster results without the ground true label.
+Try to evaluate cluster results and get mroe insights without the ground true label.
